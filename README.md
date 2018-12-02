@@ -1,5 +1,6 @@
-# mcmaster
-# Workshop - McMaster Conference on Substantive Representation
+## Workshop - McMaster Conference on Substantive Representation
+
+Files for the workshop will be posted here before December 6.
 
 ## Automated Textual Analysis of Parliamentary Debates
 
