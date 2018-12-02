@@ -15,6 +15,7 @@ Since Module 2 of the conference (on geographic information systems) depends on 
 
 For Mac users:
 https://repo.anaconda.com/archive/Anaconda2-5.2.0-MacOSX-x86_64.pkg
+
 For Windows users:
 https://repo.anaconda.com/archive/Anaconda2-5.2.0-Windows-x86_64.exe
 
