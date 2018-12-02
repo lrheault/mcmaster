@@ -21,11 +21,11 @@ https://repo.anaconda.com/archive/Anaconda2-5.2.0-Windows-x86_64.exe
 
 After downloading the installer, simply double-click to install.  
 
-Once installed, you can launch a Jupyter notebook by clicking the Jupyter shortcut.  The interface will be launched within your browser.
+Once installed, you can launch a Jupyter notebook by clicking the Jupyter shortcut created during the installation.  The interface will be launched within your default browser.
 
 The notebook for the workshop (with an extension .ipynb) will be available online for download on this GitHub page prior to the conference.  
 
-## Alternative instructions (Advanced users)
+## Alternative Instructions (Advanced users)
 
 For Mac and Linux users, note that Python should be installed already on your laptop.  You can confirm this as follows: 
 
