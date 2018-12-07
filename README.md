@@ -49,3 +49,13 @@ jupyter notebook
 This will launch your browser with the Jupyter interface.
 
 Note that even if you have Python installed on your laptop, you can still follow the instructions above to install the Anaconda distribution.  Since it is prepackaged with editors and libraries, the Anaconda distribution facilitates the use of Python for new users.
+
+## During the Workshop
+
+1. Download the repository by clicking "Clone or download" and then Download ZIP.  
+
+2. Unzip the repository.
+
+3. Launch the Jupyter notebook, and navigate to the directory you have just created.
+
+4. Click the file Module1.ipynb to load the example notebook.
