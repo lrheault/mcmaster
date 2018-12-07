@@ -54,7 +54,7 @@ Note that even if you have Python installed on your laptop, you can still follow
 
 1. Download the repository by clicking "Clone or download" and then Download ZIP.  
 
-2. Unzip the repository.
+2. Unzip the repository, which will create a directory called mcmaster-master.
 
 3. Launch the Jupyter notebook, and navigate to the directory you have just created.
 
